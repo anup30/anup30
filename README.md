@@ -36,32 +36,32 @@
 
 ### Flutter
 
-* **E-commerce app** — user authentication, product categories, cart. Repo: [https://github.com/anup30/e_commerce_1](https://github.com/anup30/e_commerce_1)
-* **Social Media App** — Firebase backend, auth, posts & chat. Repo: [https://github.com/anup30/social_app](https://github.com/anup30/social_app)
-* **Just Radio (Live)** — online radio player (web version live). Repo: [https://github.com/anup30/just_radio](https://github.com/anup30/just_radio) | Live: [https://anup30.github.io/just_radio/](https://anup30.github.io/just_radio/)
-* **BMI Calculator** — simple Flutter app. Repo: [https://github.com/anup30/bmi_calculator](https://github.com/anup30/bmi_calculator)
-* **Task Manager (GetX)** — everyday tasks helper. Repo: [https://github.com/anup30/task_manager_getx](https://github.com/anup30/task_manager_getx)
+* **E-commerce app** — user authentication, product categories, cart. Repo: <a href="https://github.com/anup30/e_commerce_1" target="_blank">link</a>
+* **Social Media App** — Firebase backend, auth, posts & chat. Repo: <a href="https://github.com/anup30/social_app" target="_blank">link</a>
+* **Just Radio (Live)** — online radio player (web version live). Repo: <a href="https://github.com/anup30/just_radio" target="_blank">link</a> | Live: <a href="https://anup30.github.io/just_radio/" target="_blank">link</a>
+* **BMI Calculator** — simple Flutter app. Repo: <a href="https://github.com/anup30/bmi_calculator" target="_blank">link</a>
+* **Task Manager (GetX)** — everyday tasks helper. Repo: <a href="https://github.com/anup30/task_manager_getx" target="_blank">link</a>
 
 ### Django / Fullstack
 
-* **Event Management** — MVT Django app (deployed). Repo: [https://github.com/anup-sdp/dj_event_mgmt/tree/mid-term-exam](https://github.com/anup-sdp/dj_event_mgmt/tree/mid-term-exam) | Live: [https://dj-event-mgmt-3.onrender.com/](https://dj-event-mgmt-3.onrender.com/)
-* **BlogInk** — Django DRF backend + React frontend (deployed & API docs). Frontend: [https://github.com/anup-sdp/react_blog-ink](https://github.com/anup-sdp/react_blog-ink) | Backend: [https://github.com/anup-sdp/drf-blog-ink/tree/main](https://github.com/anup-sdp/drf-blog-ink/tree/main) | Live frontend: [https://react-blog-ink.vercel.app/](https://react-blog-ink.vercel.app/) | API docs: [https://drf-blog-ink.vercel.app/api/v1/swagger/](https://drf-blog-ink.vercel.app/api/v1/swagger/)
+* **Event Management** — MVT Django app (deployed). Repo: <a href="https://github.com/anup-sdp/dj_event_mgmt/tree/mid-term-exam" target="_blank">link</a> | Live: <a href="https://dj-event-mgmt-3.onrender.com/" target="_blank">link</a>
+* **BlogInk** — Django DRF backend + React frontend (deployed & API docs). Frontend: <a href="https://github.com/anup-sdp/react_blog-ink" target="_blank">link</a> | Backend: <a href="https://github.com/anup-sdp/drf-blog-ink/tree/main" target="_blank">link</a> | Live frontend: <a href="https://react-blog-ink.vercel.app/" target="_blank">link</a> | API docs: <a href="https://drf-blog-ink.vercel.app/api/v1/swagger/" target="_blank">link</a>
 
 ---
 
 ## 🏆 Certifications
 
-* 6-month course on **Flutter** — Ostad (2024). Certificate: [https://anup30.github.io/resume_anup/certificates/ostad_flutter%205-A14855.pdf](https://anup30.github.io/resume_anup/certificates/ostad_flutter%205-A14855.pdf)
-* 6-month course on **Django + React** — Ostad (2025). Certificate: [https://anup30.github.io/resume_anup/certificates/ostad_python_django_react%203-A31399.pdf](https://anup30.github.io/resume_anup/certificates/ostad_python_django_react%203-A31399.pdf)
-* 1.5-year **CSE Fundamentals** — Phitron (2025). Certificate: [https://anup30.github.io/resume_anup/certificates/phitron%20cse%20fundamentsls.pdf](https://anup30.github.io/resume_anup/certificates/phitron%20cse%20fundamentsls.pdf)
+* 6-month course on **Flutter** — Ostad (2024). Certificate: <a href="https://anup30.github.io/resume_anup/certificates/ostad_flutter%205-A14855.pdf" target="_blank">link</a>
+* 6-month course on **Django + React** — Ostad (2025). Certificate: <a href="https://anup30.github.io/resume_anup/certificates/ostad_python_django_react%203-A31399.pdf" target="_blank">link</a>
+* 1.5-year **CSE Fundamentals** — Phitron (2025). Certificate: <a href="https://anup30.github.io/resume_anup/certificates/phitron%20cse%20fundamentsls.pdf" target="_blank">link</a>
 
 ---
 
 ## 🤼 Competitive Programming
 
-* Codeforces (rating **1141**) — [https://codeforces.com/profile/anup30](https://codeforces.com/profile/anup30)
-* CodeChef (rating **1493**) — [https://www.codechef.com/users/anup30](https://www.codechef.com/users/anup30)
-* LeetCode — [https://leetcode.com/u/anup30/](https://leetcode.com/u/anup30/)
+* Codeforces (rating **1141**) — <a href="https://codeforces.com/profile/anup30" target="_blank">link</a>
+* CodeChef (rating **1493**) — <a href="https://www.codechef.com/users/anup30" target="_blank">link</a>
+* LeetCode — <a href="https://leetcode.com/u/anup30/" target="_blank">link</a>
 
 ---
 
@@ -75,12 +75,4 @@
 
 ---
 
-## ✨ How to use this README
-
-* **Change the banner**: update the `img` src at the top to any other banner URL (recommended size: ~1065×395).
-* **Badges & theme**: the GitHub stats images use `theme=tokyonight` — you can change `theme` to `dark`, `radical`, etc.
-
----
-
 Thanks for stopping by — feel free to **open an issue** or **PR** on this README if you want wording tweaks, additional badges, or a different banner. 🙌
-<!-- comment -->
