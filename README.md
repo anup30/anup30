@@ -79,10 +79,22 @@ Daily task management application built with GetX state management.
 
 #### 🎉 Event Management System
 Full-stack event management platform using Django MVT architecture.
+- Role based access control
+- Render deployment, Claudinary, PostgreSql (supabase)
 - [View Repository](https://github.com/anup-sdp/dj_event_mgmt/tree/mid-term-exam) | [Live Demo](https://dj-event-mgmt-3.onrender.com/)
+
+#### 🛒 PhiMart E-commerce
+Full-featured e-commerce platform with Django REST Framework backend and React frontend.
+- Payment integration with SSLCommerz
+- Product management and order processing
+- user types: admin/regular customer
+- [Frontend Repository](https://github.com/anup-sdp/react_phimart_client) | [Backend Repository](https://github.com/anup-sdp/pritron_drf_phimart_ecom)
+- [Live App](https://react-phimart-client.vercel.app/) | [API Documentation](https://drf-phimart.vercel.app/swagger/)
 
 #### 📝 BlogInk - Blogging Platform
 Modern blogging platform with Django REST Framework backend and React frontend.
+- User authentication, role base functionality
+- Payment Integration with SSLCommerz
 - [Frontend Repository](https://github.com/anup-sdp/react_blog-ink) | [Backend Repository](https://github.com/anup-sdp/drf-blog-ink/tree/main)
 - [Live App](https://react-blog-ink.vercel.app/) | [API Documentation](https://drf-blog-ink.vercel.app/api/v1/swagger/)
 
