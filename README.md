@@ -63,15 +63,15 @@
 * CodeChef (rating **1493**) — <a href="https://www.codechef.com/users/anup30" target="_blank">link</a>
 * LeetCode — <a href="https://leetcode.com/u/anup30/" target="_blank">link</a>
 
----
+--- 
 
 ## 📫 Contact & Links
 
 * Email: [anupbarua30@gmail.com](mailto:anupbarua30@gmail.com)
 * Phone (BD): +88 01913378482
-* Portfolio / Resume: [https://anup30.github.io/resume_anup/](https://anup30.github.io/resume_anup/)
+* Portfolio / Resume: [on github pages](https://anup30.github.io/resume_anup/) and [on netlify](https://thriving-chaja-deb5b6.netlify.app/)
 * LinkedIn: [https://www.linkedin.com/in/anup-barua-a3137330a/](https://www.linkedin.com/in/anup-barua-a3137330a/)
-* GitHub: [https://github.com/anup30](https://github.com/anup30)
+* GitHub: [profille](https://github.com/anup30)
 
 ---
 
