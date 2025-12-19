@@ -88,6 +88,7 @@ Full-featured e-commerce platform with Django REST Framework backend and React f
 - Payment integration with SSLCommerz
 - Product management and order processing
 - user types: admin/regular customer
+- Vercel deployment, Claudinary, PostgreSql (supabase)
 - [Frontend Repository](https://github.com/anup-sdp/react_phimart_client) | [Backend Repository](https://github.com/anup-sdp/pritron_drf_phimart_ecom)
 - [Live App](https://react-phimart-client.vercel.app/) | [API Documentation](https://drf-phimart.vercel.app/swagger/)
 
@@ -95,6 +96,7 @@ Full-featured e-commerce platform with Django REST Framework backend and React f
 Modern blogging platform with Django REST Framework backend and React frontend.
 - User authentication, role base functionality
 - Payment Integration with SSLCommerz
+- Vercel deployment, Claudinary, PostgreSql (supabase)
 - [Frontend Repository](https://github.com/anup-sdp/react_blog-ink) | [Backend Repository](https://github.com/anup-sdp/drf-blog-ink/tree/main)
 - [Live App](https://react-blog-ink.vercel.app/) | [API Documentation](https://drf-blog-ink.vercel.app/api/v1/swagger/)
 
