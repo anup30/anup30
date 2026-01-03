@@ -11,9 +11,9 @@
 * 💼 Looking for a junior software engineer role where I can learn fast and deliver clean, efficient code.
 
 
-<table style="border: none;" border="0" cellspacing="0" cellpadding="0">
+<table style="border: none !important; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="60%" valign="top" style="border: none;">
+<td width="60%" valign="top" style="border: none !important;">
 
 ## 🛠️ Technical Skills
 
@@ -45,7 +45,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 </td>
-<td width="40%" valign="middle" align="center" style="border: none;">
+<td width="40%" valign="middle" align="center" style="border: none !important;">
 
 <img alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
