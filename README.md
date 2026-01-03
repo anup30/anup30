@@ -10,9 +10,10 @@
 * 🌱 Strong in Data Structures & Algorithms, C++, and competitive programming.
 * 💼 Looking for a junior software engineer role where I can learn fast and deliver clean, efficient code.
 
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-- .
-## 
+
+
 ## 🛠️ Technical Skills
 
 ### Frontend Development
@@ -23,6 +24,8 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
+
+<br clear="right"/>
 ### Mobile Development
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
