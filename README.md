@@ -47,6 +47,7 @@ I actively participate in competitive programming to sharpen my problem-solving 
 - **Codeforces**: [Rating 1141](https://codeforces.com/profile/anup30)
 - **CodeChef**: [Rating 1493](https://www.codechef.com/users/anup30)
 - **LeetCode**: [Profile](https://leetcode.com/u/anup30/)
+  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ## 📂 Featured Projects
 
