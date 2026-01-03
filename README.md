@@ -11,7 +11,7 @@
 * 💼 Looking for a junior software engineer role where I can learn fast and deliver clean, efficient code.
 
 
-<table style="border: none; !important; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0">
+<table style="border: 1px solid white; !important; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="60%" valign="top" style="border: none !important;">
 
